@@ -1,4 +1,4 @@
-Sitemap: emilyolafson.github.io/emilyolafson/sitemap.xml
+Sitemap: emilyolafson.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
