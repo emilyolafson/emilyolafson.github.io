@@ -7,7 +7,7 @@
 @def tags = ["syntax", "code", "image"]
 
 ## As an Instructor
-* HD 3250: Neurochemistry of Human Behaviour (taught through the [Cornell Prison Education Program](https://cpep.cornell.edu/)). Fall 2021. View syllabus [here](../assets/Syllabus_HD3250.pdf).
+* HD 3250: Neurochemistry of Human Behaviour (taught at Five Points Correctional Facility through the [Cornell Prison Education Program](https://cpep.cornell.edu/)). Fall 2021. View syllabus [here](../assets/Syllabus_HD3250.pdf).
 * CoCo Laboratory Summer Skills Development Workshops. Summer 2020.
 
 ## As a Teaching Assistant

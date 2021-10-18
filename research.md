@@ -15,7 +15,7 @@ rss = "list of all research works"
   <div class="container">
     <img class="right" src="/assets/graph_matching_fig.jpeg" height=300px>
     <p>
- <b>Olafson, E. R. </b>, Jamison, K. W., Sweeney, E. M., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href="https://doi.org/10.1101/2021.05.27.445834">Functional connectome reorganization relates to post-stroke motor recovery and structural disruption.</a> <i>BioRxiv.</i>
+ <b>Olafson, E. R. </b>, Jamison, K. W., Sweeney, E. M., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href=https://doi.org/10.1016/j.neuroimage.2021.118642">Functional connectome reorganization relates to post-stroke motor recovery and structural disruption.</a> <i>Neuroimage.</i>
     </p>
     <p>
      Remapping after stroke has not yet been observed with human fMRI. Here, we propose a novel biomarker for functional remapping using graph matching and apply it to a cohort of pontine stroke subjects. We found that, in general, remapping occurred in brain areas that were structurally damaged by the stroke, and that more remapping over time was correlated with better motor outcomes. 

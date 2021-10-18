@@ -5,7 +5,7 @@
 @def rss_pubdate = Date(2019, 5, 1)
 
 
-Outside of the lab, I am interested in oil painting, gardening, coffee, and Survivor.
+Outside of the lab, I am interested in oil painting, gardening, and Survivor. I have many thoughts on things I am not an expert in.
 
 ~~~
 <div class="row">
