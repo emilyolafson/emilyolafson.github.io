@@ -8,7 +8,7 @@
 ~~~
 <div class="row">
   <div class="container">
-    <p><big> Too much mindfulness?> </big></p>
+    <p><big> Too much mindfulness? </big></p>
     <img class="left" src="/assets/meditation.jpg" height=400px>
     <div style="clear: both"></div>
     <p> As someone who has always believed that their life would improve dramatically if only they could find the self-discipline to sit down and meditate for 10 goddamn minutes a day, I was shocked and somewhat amused to read a blog post about the dangers of too much mindfulness. In it, Dan Lawton documents his experience meditating so deeply that he descended into a ‘hellscape of terror, panic and paranoia,’ an episode so traumatic that it left him with PTSD and a rightful sense of betrayal from the meditation community. How could this happen? I was really banking on Nirvana being more welcoming.</p>
