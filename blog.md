@@ -6,7 +6,6 @@ rss_title = "Blog"
 rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
-<p><small>All thoughts are my own. </p></small>
 
 # My nested cross-validation come to Jesus moment
 ~~~
