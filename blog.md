@@ -3,7 +3,19 @@
 @def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
 @def rss_title = "More goodies"
 @def rss_pubdate = Date(2019, 5, 1)
-
+~~~
+<div class="row">
+  <div class="container">
+    <p><big> Nested Cross-Validation </big></p>
+    <p> Tucked away in the last figure of a <a href="https://academic.oup.com/scan/article/15/4/487/5824852">multivoxel pattern analysis review article </a> lies the best visual depiction of nested cross-validation I’ve ever encountered. Behold:</p>
+    <img class="left" src="/assets/nestedxval.jpeg" height=500>
+    <div style="clear: both"></div>
+    <p> Have you ever seen something so beautiful? Approaching machine learning from a neuroscience background has often left me frustrated as I often feel like I'm missing crucial, simple details that would make everything "click", something I attribute to not taking enough computer science courses during my undergrad. </p>
+    <p> With nested-cross validation, I always had questions like: how are hyperparameters evaluated in the inner loop? How do the best hyperparameters get worked back into the outer loop? What is the specific order of operations? </p> 
+    <p> This graphic answers all my questions, so I wanted to share. Enjoy. </p>
+ </p>
+  </div>
+</div>
 
 ~~~
 <div class="row">
