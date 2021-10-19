@@ -1,10 +1,9 @@
-
 +++
 title = "Blog"
 hascode = true
 date = Date(2019, 3, 22)
 rss_title = "Blog"
-rss = "list of all research works"
+rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
 
