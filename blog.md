@@ -6,10 +6,10 @@ rss_title = "Blog"
 rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
+<p><small>All thoughts are my own. </p></small>
 
-~~~
 # My nested cross-validation come to Jesus moment
-
+~~~
 <div class="row">
   <div class="container">
     <p> Tucked away in the last figure of a <a href="https://academic.oup.com/scan/article/15/4/487/5824852">multivoxel pattern analysis review article </a> lies the best visual depiction of nested cross-validation I’ve ever encountered. Behold:</p>
@@ -23,8 +23,11 @@ rss = "personal plog"
 </div>
 ~~~
 ~~~
-
+~~~
+~~~
+~~~
 # Too much mindfulness?
+~~~
 <div class="row">
   <div class="container">
     <img class="left" src="/assets/meditation.jpg" height=400px>
