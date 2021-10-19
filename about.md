@@ -10,10 +10,6 @@
 <div class="row">
   <div class="container">
      Outside of the lab, I am interested in oil painting, gardening, and Survivor. I have many <a href="/blog">thoughts</a> on things I am not an expert in.
-
-    <img class="left" src="/assets/finca_cialitos.jpeg" height=700px>
-    <div style="clear: both"></div>
-    <p> at Finca Cialitos, Puerto Rico </p>
   </div>
 </div>
 ~~~
