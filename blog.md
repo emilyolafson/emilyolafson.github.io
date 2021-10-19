@@ -3,10 +3,12 @@
 @def rss = "A short description of the page which would serve as **blurb** in a `RSS` feed; you can use basic markdown here but the whole description string must be a single line (not a multiline string). Like this one for instance. Keep in mind that styling is minimal in RSS so for instance don't expect maths or fancy styling to work; images should be ok though: ![](https://upload.wikimedia.org/wikipedia/en/b/b0/Rick_and_Morty_characters.jpg)"
 @def rss_title = "More goodies"
 @def rss_pubdate = Date(2019, 5, 1)
+
 ~~~
+# My nested cross-validation come to Jesus moment
+
 <div class="row">
   <div class="container">
-    <p><big> Nested Cross-Validation </big></p>
     <p> Tucked away in the last figure of a <a href="https://academic.oup.com/scan/article/15/4/487/5824852">multivoxel pattern analysis review article </a> lies the best visual depiction of nested cross-validation I’ve ever encountered. Behold:</p>
     <img class="left" src="/assets/nestedxval.jpeg" height=500>
     <div style="clear: both"></div>
@@ -18,9 +20,10 @@
 </div>
 ~~~
 ~~~
+
+# Too much mindfulness?
 <div class="row">
   <div class="container">
-    <p><big> Too much mindfulness? </big></p>
     <img class="left" src="/assets/meditation.jpg" height=400px>
     <div style="clear: both"></div>
     <p> As someone who has always believed that their life would improve dramatically if only they could find the self-discipline to sit down and meditate for 10 goddamn minutes a day, I was shocked and somewhat amused to read a blog post about the <a href="https://danlawton.substack.com/p/when-buddhism-goes-bad">dangers of too much mindfulness</a>. In it, Dan Lawton documents his experience meditating so deeply that he descended into a ‘hellscape of terror, panic and paranoia,’ an episode so traumatic that it left him with PTSD and a rightful sense of betrayal from the meditation community. How could this happen? I was really banking on Nirvana being more welcoming.</p>
