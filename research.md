@@ -13,7 +13,7 @@ rss = "list of all research works"
 ~~~
 <div class="row">
   <div class="container">
-    <img class="right" src="/assets/graph_matching_fig.jpeg" height=300px>
+    <img class="right" src="/assets/graph_matching_fig.jpeg" height=250px>
     <p>
  <b>Olafson, E. R. </b>, Jamison, K. W., Sweeney, E. M., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href=https://doi.org/10.1016/j.neuroimage.2021.118642>Functional connectome reorganization relates to post-stroke motor recovery and structural disruption.</a> <i>Neuroimage.</i>
     </p>
@@ -33,7 +33,7 @@ rss = "list of all research works"
 ~~~
 <div class="row">
   <div class="container">
-    <img class="right" src="/assets/bsc_fig1.jpeg" height=450px>
+    <img class="right" src="/assets/bsc_fig1.jpeg" height=250px>
 
     <p>
     <b>Olafson, E. </b>, Bedford, S. A., Devenyi, G. A., Patel, R., Tullo, S., Park, M. T. M., Parent, O., Anagnostou, E., Baron-Cohen, S., Bullmore, E. T., Chura, L. R., Craig, M. C., Ecker, C., Floris, D. L., Holt, R. J., Lenroot, R., Lerch, J. P., Lombardo, M. V., Murphy, D. G. M., Raznahan A., Ruigrok A. N. V., Spencer M. D., Suckling J., Taylor M. J., Lai M. C.,  Chakravarty, M. M. (2021). <a href="https://academic.oup.com/cercor/article-abstract/31/7/3338/6162915">Examining the Boundary Sharpness Coefficient as an Index of Cortical Microstructure in Autism Spectrum Disorder.</a> <i>Cerebral Cortex</i>, 31(7), 3338–3352.
