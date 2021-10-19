@@ -10,7 +10,7 @@
 <div class="row">
   <div class="container">
     <p> Tucked away in the last figure of a <a href="https://academic.oup.com/scan/article/15/4/487/5824852">multivoxel pattern analysis review article </a> lies the best visual depiction of nested cross-validation I’ve ever encountered. Behold:</p>
-    <img class="left" src="/assets/nestedxval.jpeg" height=500>
+    <img class="left" src="/assets/nestedxval.jpeg" height=700>
     <div style="clear: both"></div>
     <p> Have you ever seen something so beautiful? Approaching machine learning from a neuroscience background has often left me frustrated as I often feel like I'm missing crucial, simple details that would make everything "click", something I attribute to not taking enough computer science courses during my undergrad. </p>
     <p> With nested-cross validation, I always had questions like: how are hyperparameters evaluated in the inner loop? How do the best hyperparameters get worked back into the outer loop? What is the specific order of operations? </p> 
