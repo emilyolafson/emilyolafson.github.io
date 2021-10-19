@@ -17,7 +17,6 @@
   </div>
 </div>
 
-~~~
 <div class="row">
   <div class="container">
     <p><big> Too much mindfulness? </big></p>
