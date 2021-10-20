@@ -7,6 +7,30 @@ rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
 
+
+
+# Noodle the Bones Dog Just Dropped Merch
+~~~
+<div class="row">
+  <div class="container">
+    <p> TikTok has silently and forcefully sucked me in. For those who have avoided its gravitational pull, TikTok is an app where you’re shown videos ranging from 15 seconds to 3 minutes. If you don’t like a video, you can keep scrolling. But TikTok will remember. It uses the length of time spent watching a video and your engagement with the video (whether you liked it, or commented) to train its algorithm that predicts, essentially, you. The speed and accuracy of the algorithm is borderline disturbing. Somehow, within hours of using the app, TikTok had me pegged: I was a left-leaning 20-something year old white woman who works in a STEM field and likes dogs, Bo Burnham, and non-fiction books written by women. Compared to the targeted ads I get on Instagram, TikTok is leagues ahead:</p>
+    <img class="left" src="/assets/instagram.png" height=300>
+    <div style="clear: both"></div>
+    <p> It’s easy to lose hours to TikTok. If you’re looking to avoid the possibility of having a single thought, TikTok provides. The range of emotions elicited from 1 hour of watching TikTok exceeds anything I’ve experienced on other social media sites. One moment I’m enraged, watching a woman document the state of her home as it falls into disarray when she stops picking up after her husband (#wifestrike); another, I’m giggling watching my favorite comedian talk about how 3 Mike’s Hard Lemonades is stronger than any psychedelic you can buy; and eventually I’ll stumble upon a devastating video of an old dog’s final days before euthanasia. It’s psychotic.  </p>
+    <p> Recently, a man went viral for posting daily videos of his senile pug immediately after lifting him out of bed – if the pug keeps himself upright after he’s released, he “has bones,” and “it’s a bones day”. A bones day is an exceptionally good omen – you should treat yourself to that thing you’ve been eyeing, ask for the raise, take the risk. If the pug slumps back into his bed, then it’s a no-bones day, folks.  Time for self-care, take it easy, don’t rush into anything. This horoscope for the new millennia has gripped Twitter as well, with accounts popping up to announce to the world whether it’s a bones or no bones day. </p> 
+     <img class="left" src="/assets/bonesarticles.png" height=300>
+    <div style="clear: both"></div>
+    <p> This is the death rattle of a society in decline.  </p>
+    <p> I’m kidding, of course. I love a good internet phenomenon that unites the masses in silliness. But what does it mean that this guy’s first instinct is to make merchandise, and we’re all like, yup! Only logical next step! </p>
+     <img class="left" src="/assets/bonesmask.png" height=300>
+    <div style="clear: both"></div>
+    <p>The mask costs $25 by the way. Part of me wonders whether this will be seen by even a fraction of the internet. Does my conservative aunt know about bones? Will I remember bones in 3 years? Do you think the Romans had an equivalent of this? At least they had chariot races. All the technology of the 21st century, and we’re enthralled by whether some pug on his deathbed gives life one more shot?  </p>
+    <p>Social media is a self-perpetuating distraction machine. Even though I’m technically on Google, I’m still angry about people’s absurd obsession with a TikTok meme, reacting to the reactions. Our outrage, joy, and nihilism are all high-octane fuel for the attention economy, manufactured by and for our own consumption. Can’t we just take a break, and stop this endless cycle of content farming? It’s a no bones day, after all.</p>  
+  </div>
+</div>
+~~~
+
+
 # My nested cross-validation come to Jesus moment
 ~~~
 <div class="row">
