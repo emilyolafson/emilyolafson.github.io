@@ -21,7 +21,7 @@ rss = "personal plog"
      <img class="left" src="/assets/bonesarticles.png" height=300>
     <div style="clear: both"></div>
     <p> This is the death rattle of a society in decline.  </p>
-    <p> I’m kidding, of course. I love a good internet phenomenon that unites the masses in silliness. But what does it mean that this guy’s first instinct is to make merchandise, and we’re all like, yup! Only logical next step! </p>
+    <p> I’m kidding, of course. I love a good internet phenomenon that unites the masses in silliness. But what does it mean that this guy’s first instinct is to make <a href = "https://noodleofficial.threadless.com/">merchandise</a>, and we’re all like, yup! Only logical next step! </p>
     <center><img class="left" src="/assets/bonesmask.png" height=150></center>
     <div style="clear: both"></div>
     <p>The mask costs $25 by the way. Part of me wonders whether this will be seen by even a fraction of the internet. Does my conservative aunt know about bones? Will I remember bones in 3 years? Do you think the Romans had an equivalent of this? At least they had chariot races. All the technology of the 21st century, and we’re enthralled by whether some pug on his deathbed gives life one more shot?  </p>
