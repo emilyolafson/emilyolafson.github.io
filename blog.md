@@ -25,7 +25,7 @@ rss = "personal plog"
     <center><img class="left" src="/assets/bonesmask.png" height=150></center>
     <div style="clear: both"></div>
     <p>The mask costs $25 by the way. Part of me wonders whether this will be seen by even a fraction of the internet. Does my conservative aunt know about bones? Will I remember bones in 3 years? Do you think the Romans had an equivalent of this? At least they had chariot races. All the technology of the 21st century, and we’re enthralled by whether some pug on his deathbed gives life one more shot?  </p>
-    <p>With amplification algorithms tuned to maximize engagement for the sake of beefing up the bottom line, social media is increasingly a self-perpetuating distraction machine. Even though I’m technically on Google, I’m still angry about people’s absurd obsession with a TikTok meme, reacting to the reactions. Our outrage, joy, and nihilism are all high-octane fuel for the attention economy, manufactured by and for our own consumption. Can’t we just take a break, and stop this endless cycle of content farming? It’s a no bones day, after all.</p>  
+    <p>With amplification algorithms tuned to maximize engagement for the sake of beefing up the bottom line, social media is increasingly a self-perpetuating distraction machine. Even though I’m on Twitter, I’m still angry about people’s absurd obsession with a TikTok meme, reacting to the reactions. Our outrage, joy, and nihilism are all high-octane fuel for the attention economy, manufactured by and for our own consumption. Can’t we just take a break, and stop this endless cycle of content farming? It’s a no bones day, after all.</p>  
   </div>
 </div>
 ~~~
