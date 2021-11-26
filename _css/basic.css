@@ -43,6 +43,12 @@ header {
   align-items: center;
 }
 
+h1{
+  font-family: "Muskegon CF SemiBold";
+  font-size: 24pt;
+}
+
+
 @font-face {
     font-family: 'Muskegon CF SemiBold';
     src: url('../emilyolafson.github.io/MuskegonCFSemiBold-SemiBold.otf') format('truetype');
