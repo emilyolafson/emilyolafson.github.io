@@ -43,11 +43,10 @@ header {
   align-items: center;
 }
 
-h1{
+h1,h2{
   font-family: "Muskegon CF SemiBold";
   font-size: 24pt;
 }
-
 
 @font-face {
     font-family: 'Muskegon CF SemiBold';
