@@ -44,7 +44,7 @@ header {
 
 @font-face {
     font-family: 'Muskegon CF SemiBold';
-    src: url('../_assets/MuskegonCFSemiBold-SemiBold.otf') format('truetype');
+    src: url('../emilyolafson/MuskegonCFSemiBold-SemiBold.otf') format('truetype');
     font-weight: 800;
     font-style: normal;
 }
