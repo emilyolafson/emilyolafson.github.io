@@ -53,7 +53,7 @@ header .blog-name {
   width: 35%;
   display: inline-block;
   text-align: left;
-  font-size: 18px;
+  font-size: 40px;
   font-family: "Muskegon CF SemiBold", Monaco, monospace;
   padding-top: 10px;
 }
@@ -61,7 +61,7 @@ header .blog-name {
 
 
 header .blog-name a {
-  color: #a6a2a0;
+  color: #000000;
   text-decoration: none;
 }
 
