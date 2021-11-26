@@ -49,6 +49,6 @@ rss = "list of all research works"
 
 
 
-* Drakulich, S., Thiffault, A.-C., **Olafson, E.**, Parent, O., Labbe, A., Albaugh, M. D., Khundrakpam, B., Ducharme, S., Evans, A., Chakravarty, M. M., & Karama, S. (2021). [Maturational trajectories of pericortical contrast in typical brain development.](https://www.sciencedirect.com/science/article/pii/S1053811921002512) _NeuroImage_, 235, 117974.
+Drakulich, S., Thiffault, A.-C., **Olafson, E.**, Parent, O., Labbe, A., Albaugh, M. D., Khundrakpam, B., Ducharme, S., Evans, A., Chakravarty, M. M., & Karama, S. (2021). [Maturational trajectories of pericortical contrast in typical brain development.](https://www.sciencedirect.com/science/article/pii/S1053811921002512) _NeuroImage_, 235, 117974.
 
 
