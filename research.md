@@ -8,7 +8,7 @@ rss = "list of all research works"
 @def tags = ["syntax", "code"]
 
 
-# Publications and Preprints
+## Publications and Preprints
 
 ~~~
 <div class="row">
@@ -27,7 +27,7 @@ rss = "list of all research works"
 
 
 
-# Undergraduate Work
+## Undergraduate Work
 
 
 ~~~
