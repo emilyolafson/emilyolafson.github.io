@@ -42,14 +42,23 @@ header {
   align-items: center;
 }
 
+@font-face {
+    font-family: 'Muskegon CF SemiBold';
+    src: url('assets/MuskegonCFSemiBold-SemiBold.otf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
 header .blog-name {
   width: 35%;
   display: inline-block;
   text-align: left;
   font-size: 18px;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: "Muskegon CF SemiBold", Monaco, monospace;
   padding-top: 10px;
 }
+
+
 
 header .blog-name a {
   color: #a6a2a0;
