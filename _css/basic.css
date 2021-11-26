@@ -3,7 +3,7 @@
 ================================================================== */
 
 nav {
-  width: 64%;
+  width: 66%;
   display: inline-block;
 }
 
@@ -58,7 +58,7 @@ h1,h2{
 }
 
 header .blog-name {
-  width: 35%;
+  width: 33%;
   display: inline-block;
   text-align: center;
   font-size: 40px;
