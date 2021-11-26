@@ -1,5 +1,5 @@
 +++
-title = "resume"
+title = "Resume"
 hascode = true
 date = Date(2019, 3, 22)
 rss_title = "resume"

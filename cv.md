@@ -3,7 +3,7 @@ title = "CV"
 hascode = true
 date = Date(2019, 3, 22)
 rss_title = "CV"
-rss = "CVs"
+rss = "CV"
 +++
 @def tags = ["syntax", "code"]
 
