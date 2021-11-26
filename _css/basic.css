@@ -15,7 +15,7 @@ nav ul {
 
 nav li {
   display: inline-block;
-  float: left;
+  float: center;
 }
 
 nav li a {
@@ -36,7 +36,7 @@ nav li a {
 }
 
 header {
-  text-align: right;
+  text-align: center;
   margin-top: 50px;
   margin-bottom: 50px;
   display: flex;
