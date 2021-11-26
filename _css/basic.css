@@ -65,7 +65,7 @@ h1,h2{
 header .blog-name {
   width: 35%;
   display: inline-block;
-  text-align: left;
+  text-align: center;
   font-size: 40px;
   font-family: "Muskegon CF SemiBold", Monaco, monospace;
   padding-top: 10px;
