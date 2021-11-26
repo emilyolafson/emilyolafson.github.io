@@ -8,7 +8,7 @@ rss = "Resume"
 @def tags = ["syntax", "code"]
 
 
-# Emily Olafson's Resume 
+## Emily Olafson's Resume 
 
 ~~~
 <div class="row">

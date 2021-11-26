@@ -8,12 +8,12 @@ rss = "CV"
 @def tags = ["syntax", "code"]
 
 
-# Emily Olafson's CV 
+## Emily Olafson's CV 
 
 ~~~
 <div class="row">
   <div class="container">
-    <iframe src="assets/cv_nov25_2021.pdf" width="100%" height="700px">
+    <iframe src="/assets/cv_nov25_2021.pdf" width="100%" height="700px">
     </iframe>
   </div>
 </div>
