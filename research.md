@@ -13,7 +13,7 @@ rss = "list of all research works"
 ~~~
 <div class="row">
   <div class="container">
-    <img class="center" src="/assets/methods_kmeans2" height=250px>
+    <img class="center" src="/assets/methods_kmeans2.png" height=250px>
     <p>
  <b>Olafson, E. R. </b>, Georgia Russello, Jamison, K. W., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href=https://doi.org/10.1101/2022.02.10.479962>Increased prevalence of a frontoparietal brain state at rest is associated with better motor recovery in individuals with pontine stroke affecting dominant-hand corticospinal tract.</a> <i>bioRxiv.</i>
     </p>
