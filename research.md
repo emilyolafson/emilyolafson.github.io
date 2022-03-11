@@ -13,6 +13,20 @@ rss = "list of all research works"
 ~~~
 <div class="row">
   <div class="container">
+    <img class="center" src="/assets/methods_kmeans2" height=250px>
+    <p>
+ <b>Olafson, E. R. </b>, Georgia Russello, Jamison, K. W., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href=https://doi.org/10.1101/2022.02.10.479962>Increased prevalence of a frontoparietal brain state at rest is associated with better motor recovery in individuals with pontine stroke affecting dominant-hand corticospinal tract.</a> <i>bioRxiv.</i>
+    </p>
+    <p>
+     Although modulation of cortical activity is central to stimulation-based rehabilitative therapies, aberrant and adaptive patterns of brain activity after stroke have not yet been fully characterized. Here, we apply a brain dynamics analysis approach to study longitudinal brain activity patterns in individuals with ischemic pontine stroke. We first found 4 commonly occurring brain states largely characterized by high amplitude activations in the visual, frontoparietal, default mode, and motor networks. For individuals with dominant-hand CST damage, increased time spent in the frontoparietal state from 1 week to 3-6 months post-stroke was associated with better motor recovery over the same time period. This work suggests that when the dominant-hand CST is compromised in stroke, resting state configurations may shift to include increased activation of the frontoparietal network, which may facilitate compensatory neural pathways that support recovery of motor function when traditional motor circuits of the dominant-hemisphere CST are compromised
+    </p>
+    <div style="clear: both"></div>
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="container">
     <img class="right" src="/assets/graph_matching_fig.jpeg" height=250px>
     <p>
  <b>Olafson, E. R. </b>, Jamison, K. W., Sweeney, E. M., Liu, H., Wang, D., Bruss, J. E., Boes, A. D., & Kuceyeski, A. (2021). <a href=https://doi.org/10.1016/j.neuroimage.2021.118642>Functional connectome reorganization relates to post-stroke motor recovery and structural disruption.</a> <i>Neuroimage.</i>
