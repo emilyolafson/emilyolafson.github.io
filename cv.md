@@ -13,7 +13,7 @@ rss = "CV"
 ~~~
 <div class="row">
   <div class="container">
-    <iframe src="/assets/cv_may5_22.pdf" width="100%" height="700px">
+    <iframe src="/assets/cv_june_22.pdf" width="100%" height="700px">
     </iframe>
   </div>
 </div>
