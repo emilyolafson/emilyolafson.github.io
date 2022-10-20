@@ -9,7 +9,7 @@
 ~~~
 <div class="row">
   <div class="container">
-     Outside of the lab, I am interested in oil painting, gardening, and Survivor. I have many <a href="/blog">thoughts</a> on things I am not an expert in.
+     Outside of the lab, I have a set of ever-changing hobbies. I am currently interested in black and white film photography. I have many <a href="/blog">thoughts</a> on things I am not an expert in.
   </div>
 </div>
 ~~~
