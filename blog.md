@@ -7,6 +7,56 @@ rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
 
+# 
+~~~
+<div class="row">
+ <div class="container">
+  <p> I’m working my east coast job from California this week, so when my workday finishes at 2:30pm, I can walk around Palo Alto with the soccer moms and pretend like I’m late to my sensory deprivation appointment. This place is wild. It’s basically just one long fancy street, where your only options for shopping locally are Whole Foods, Lululemon, and Restoration Hardware. </p>
+  <p> There’s also a West Elm. Actually, it’s pronounced ‘west elm’. Their whole schtick is mass-producing trendy furniture that looks good from 10 feet away. At the moment their catalog is mostly mid-century modern (MCM) pieces, which is exciting to me because <a href = "https://imgur.com/a/eke2IfB">I just refinished a Paul McCobb side table</a> that got me reading about MCM design. The origins of MCM are super interesting. The return of soldiers and general economic boom after World War II created huge demands for new housing, which meant furniture had to be mass-produced (incidentally, MCM design carried into the Cold War, so you can find classic MCM furniture on nuclear fallout shelter handbooks – I am simply obsessed). </p>
+  <center><img class="center" src="/assets/mcm_fallout.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> Unable to be quickly produced like the ornate, detailed structures of the art deco era, MCM furniture was functional, minimal, and affordable for the average American family. The ideology was once awkwardly put: <i>“Getting the most of the best to the greatest number of people for the least amount of money.”</i></p>
+  <p> Obviously I went to west elm to see this MCM furniture in the flesh. Before I divulge my findings, there are a few things you should know about me. First and foremost, I am a hater. I offset my otherwise agreeable personality with borderline unreasonable takes on pop culture, capitalism, and the internet. So, bear that in mind as you read. Second, I don’t know anything!! The only authority I have on furniture and design is being way too into IKEA catalogs at age 12 and knowing the difference between mahogany and pine. That said, </p>
+  <p> This store is a SCAM!! I won’t be silenced any longer. Just outrageous prices for the lowest quality pieces. Take this side table, <i>“Charley 19” C-side table, walnut, antique brass”</i>:</p>
+  <center><img class="center" src="/assets/sidetable.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> $200!!! </p>
+  <p> First of all, it’s not solid walnut wood – it’s a walnut veneer. A veneer is just a few mm thick, and it’s glued on top of something cheap like particleboard. Because veneer is so thin, it gets scratched and damaged really easily. If veneer is damaged, especially with water, it can be difficult or impossible to repair the piece. </p>
+  <center><img class="center" src="/assets/veneer.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> <a href = "https://imgur.com/a/egRnRVQ">I recently refinished an old oak desk</a>, and the water damage had soaked through the entire veneer. Pieces with veneer have short shelf lives and low resale value. For reference, you can get 15x19” of solid walnut wood for about $100. Just 15x19” of walnut veneer costs about $6 -- particleboard is also pennies.</p>
+  <p>  As for the metal base, it’s an antique brass finish, meaning it’s only brass plated. I don’t know much about the economy, but I feel like you could pay the person in Indonesia to use the real stuff and you’d still have some money left over.</p>
+  <p> My primary gripe is with the way the product is advertised – “side table, walnut, antique brass”. You have to go into the details of the piece to learn that it is only superficially either of those things. I feel like they’re tricking young millennials who don’t spend their free time on r/woodworking into thinking they’re getting durable & well-made MCM furniture, when they’re actually getting Aliexpress garbage.</p>
+  <p> This piece also just doesn’t seem sturdy. Although I have been known to take my laptop in the bath, I wouldn’t put like, a nice wine glass on this thing.<a href="https://www.aliexpress.com/i/2251832764738188.html?gatewayAdapt=4itemAdapt >You can actually get this on aliexpress btw.</a> I think the design is OK – it’s just overpriced for the materials.</p>
+  <p> Then there is the mango wood. Honestly this feels like the scam of the (mid) century. They have a variety of side tables, desks, and coffee tables in this wood from mango trees. It’s solid wood (not a veneer), so big props to west elm there. Apparently they get it from crusty old mango trees that have been sucked dry by the ferocious mango economy in India. </p>
+  <center><img class="center" src="/assets/mangowood.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> I’m sure the mango wood is somewhat sustainable (as they advertise relentlessly) but.. it’s just so ugly?? The wood grain is reminiscent of water-damaged pine or an old deck. There’s no continuity in color or pattern, and there’s a real presence of cool, bluish undertones that makes it look like a weathered pine deck.</p>
+  <p> It just looks dirty! But the geniuses at west elm have found another word for that… these pieces aren’t ugly… they’re industrial: </p>
+  <center><img class="center" src="/assets/industrial.png" height=300></center>
+  <div style="clear: both"></div> 
+  <p> The price on some of these pieces... jail!! </p>
+  <p> $700 for the coffee table alone. These are mahogany prices, people! I once saw someone who listed their mango west elm desk on Facebook marketplace for the original price – $500 – and the listing stayed there for months (it’s still up actually). Like, sorry you got scammed, but don’t make that our problem.</p>
+  <p> This person’s inability to resell their desk on marketplace I think actually touches on the core business model of west elm. Nothing is actually nice – it’s just on-trend and well-staged. The value is completely artificial. And I GET that like, that’s how capitalism works. I’m just annoyed that the scam is so obvious here. They must think we’re suckers. </p>
+  <p> The mango is a hardwood, which makes it more durable (unlike pine, which is a softwood and will dent, scratch, etc.). Although apparently they didn’t bother with a good finish– the regular showroom wear and tear is very visible. </p>
+  <center><img class="center" src="/assets/mangoscratch.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> The mango takes stain pretty well, though, and their other mango coffee table with a dark, walnut stain is much nicer. Still outrageous prices, but at least the stains hide some of the awful coloring.</p>
+  <center><img class="center" src="/assets/mangostain.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> Their other furniture seems.. good? A lot of leather MCM lounge chairs, which look comfortable and stylish. I’m not a leather connoisseur. Their other stuff like vases, rugs, and pillows seem extremely generic but they’re nice I GUESS. I want to see those margins. </p>
+  <p> Disillusioned by west elm, I decided to go to restoration hardware (RH) – west elm’s rich, conservative aunt. I gotta say, RH has some fantastic pieces of furniture if you are a giant who loves a monochromatic color scheme. And that’s a compliment! Let’s start with the wood (a topic in which I am a seasoned critic, to which you can now attest): </p>
+  <center><img class="center" src="/assets/rh1.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> RH has some simple but classic wood pieces in their current collection (I think that’s how it works? Like there’s a new collection each season?). My favourite is an 8-foot tall oak cabinet with glass panes. They also have a very assertive dining room table – also like 10 feet long, which echoes the clean lines and sharp angles of the cabinet.  </p>
+  <p> My one qualm is what they’ve done to the wood itself. It’s made of solid oak (score) that’s been sandblasted “to impart a subtle texture” and stained a “brushed grey oak” color. That all sounds very fancy, so why do I feel like I’m sitting at a table in a Rainforest Café?</p>
+  <center><img class="center" src="/assets/rhwood.png" height=300></center>
+  <div style="clear: both"></div>
+  <p> The sandblasting creates these deep grooves in the wood, which, combined with the heavy finish, gives the oak a plastic feel. It just feels tacky, which is too bad because I’m sure the table will last a while. That said – seems like a pain to clean. </p>
+  <p> As for the rest of their furniture, I am a fan. But I can’t emphasize how big this stuff is. I tried to take some pictures that show scale. I honestly don’t think these couches would fit through a standard door frame. It’s very American. </p>
+  <p> The prices at RH I can at least understand. The coffee tables are hand-crafted with oak sourced from old buildings. Their target demographic is also rich people who want to look rich, so I don’t really care about any scammery that’s happening. I also appreciate that RH has its own identity and legacy and could survive without targeted advertising and Instagram.  </p>
+  <p> On the other hand, west elm is close to home. They’re targeting millennials, who just want to spruce up their rental apartment. Their scam is painfully ironic: piggybacking on MCM design with none of the quality or affordability that originally defined the era.</p>
+  <p> All signs point to MCM design being on its way out. But the great thing about original MCM pieces is that they’re often made of solid wood and designed to last. There’s a hot market for restoring old wood furniture, and MCM pieces are some of the top sellers at the moment. If you see something at west elm that catches your eye, I implore you to look for an equivalent refinished piece. It will be slightly more expensive than west elm, but you won’t be scamming someone else by selling it. </p>
 
 
 # Noodle the Bones Dog Just Dropped Merch
