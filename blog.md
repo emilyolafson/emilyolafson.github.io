@@ -32,7 +32,7 @@ rss = "personal plog"
   <center><img class="center" src="/assets/mangowood.png" height=300></center>
   <div style="clear: both"></div>
   <p> I’m sure the mango wood is somewhat sustainable (as they advertise relentlessly) but.. it’s just so ugly?? The wood grain is reminiscent of water-damaged pine. There’s no continuity in color or pattern, and there’s a real presence of cool, bluish undertones that makes it look like a weathered deck.</p>
-  <p> It just looks dirty! But the geniuses at west elm have found another word for that… these pieces aren’t ugly… they’re industrial: </p>
+  <p> It just looks dirty! But the geniuses at west elm have found another word for that… these pieces aren’t ugly… they’re <b><i>industrial:</b></i> </p>
   <center><img class="center" src="/assets/industrial.png" height=300></center>
   <div style="clear: both"></div> 
   <p> The price on some of these pieces... jail!! </p>
