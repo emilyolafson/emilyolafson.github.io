@@ -31,7 +31,7 @@ rss = "personal plog"
   <p> Then there is the mango wood. Honestly this feels like the scam of the (mid) century. They have a variety of side tables, desks, and coffee tables in this wood from mango trees. It’s solid wood (not a veneer), so big props to west elm there. Apparently they get it from crusty old mango trees that have been sucked dry by the ferocious mango economy in India. </p>
   <center><img class="center" src="/assets/mangowood.png" height=300></center>
   <div style="clear: both"></div>
-  <p> I’m sure the mango wood is somewhat sustainable (as they advertise relentlessly) but.. it’s just so ugly?? The wood grain is reminiscent of water-damaged pine or an old deck. There’s no continuity in color or pattern, and there’s a real presence of cool, bluish undertones that makes it look like a weathered pine deck.</p>
+  <p> I’m sure the mango wood is somewhat sustainable (as they advertise relentlessly) but.. it’s just so ugly?? The wood grain is reminiscent of water-damaged pine. There’s no continuity in color or pattern, and there’s a real presence of cool, bluish undertones that makes it look like a weathered deck.</p>
   <p> It just looks dirty! But the geniuses at west elm have found another word for that… these pieces aren’t ugly… they’re industrial: </p>
   <center><img class="center" src="/assets/industrial.png" height=300></center>
   <div style="clear: both"></div> 
