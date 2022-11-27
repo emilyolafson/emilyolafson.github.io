@@ -7,7 +7,7 @@ rss = "personal plog"
 +++
 @def tags = ["syntax", "code"]
 
-# 
+# Ode to the West Elm
 ~~~
 <div class="row">
  <div class="container">
