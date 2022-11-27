@@ -16,7 +16,7 @@ rss = "personal plog"
   <center><img class="center" src="/assets/mcm_fallout.png" height=300></center>
   <div style="clear: both"></div>
   <p> Unable to be quickly produced like the ornate, detailed structures of the art deco era, MCM furniture was functional, minimal, and affordable for the average American family. The ideology was once awkwardly put: <i>“Getting the most of the best to the greatest number of people for the least amount of money.”</i></p>
-  <p> Obviously I went to west elm to see this MCM furniture in the flesh. Before I divulge my findings, there are a few things you should know about me. First and foremost, I am a hater. I offset my otherwise agreeable personality with borderline unreasonable takes on pop culture, capitalism, and the internet. So, bear that in mind as you read. Second, I don’t know anything!! The only authority I have on furniture and design is being way too into IKEA catalogs at age 12 and knowing the difference between mahogany and pine. That said, </p>
+  <p> Obviously I went to west elm to see this MCM furniture in the flesh. Before I begin my tirade, I will say: I don’t know anything. The only authority I have on furniture and design is being way too into IKEA catalogs at age 12 and knowing the difference between mahogany and pine. That said, </p>
   <p> This store is a SCAM!! I won’t be silenced any longer. Just outrageous prices for the lowest quality pieces. Take this side table, <i>“Charley 19” C-side table, walnut, antique brass”</i>:</p>
   <center><img class="center" src="/assets/sidetable.png" height=300></center>
   <div style="clear: both"></div>
