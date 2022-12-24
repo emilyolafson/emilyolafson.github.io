@@ -137,6 +137,25 @@
 
 <item>
   <title>
+    <![CDATA[  Stuff n&#39; things  ]]>
+  </title>
+  <link> emilyolafson.github.io/stuff/index.html </link>
+  <guid> emilyolafson.github.io/stuff/index.html </guid>
+  <description>
+    <![CDATA[  stuff  ]]>
+  </description>  
+    
+  <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Emily Olafson</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  resume  ]]>
   </title>
   <link> emilyolafson.github.io/resume/index.html </link>
