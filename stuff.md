@@ -7,12 +7,15 @@ rss = "stuff"
 +++
 @def tags = ["syntax", "code"]
 
+# A collection of things I do outside of research:
 ~~~
 <div class="row">
  <div class="container">
-  <center><img class="center" src="/assets/rhwood.png" height=300></center>
+  My partner loves League of Legends and I couldn't find nice posters online, so I made some.
+  <center><img class="center" src="/assets/XinZhaoFinal.pdf" height=1000></center>
+  <center><img class="center" src="/assets/ViFinal.pdf" height=1000></center>
   <div style="clear: both"></div>
-  <p> The sandblasting creates these deep grooves in the wood, which, combined with the heavy finish, gives the oak a plastic feel. It just feels tacky, which is too bad because I’m sure the table will last a while. That said – seems like a pain to clean. </p>
+  <p> I am so obsessed with the movie Her (2013) and its soundtrack (Arcade Fire & Owen Pallett) that I made an extended playlist.
   <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4M69zMM5G0fa3LSxiqpPWt?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
 </div>
 </div>
